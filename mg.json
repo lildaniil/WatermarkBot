@@ -1,0 +1,68 @@
+{
+    "message_id": 409,
+    "from": {
+        "id": 312897103,
+        "is_bot": false,
+        "first_name": "Daniil",
+        "username": "lildaniil",
+        "language_code": "ru"
+    },
+    "chat": {
+        "id": 312897103,
+        "first_name": "Daniil",
+        "username": "lildaniil",
+        "type": "private"
+    },
+    "date": 1671041516,
+    "media_group_id": "13368245728279538",
+    "photo": [{
+            "file_id": "AgACAgIAAxkBAAIBmWOZ57zY-PdwyQLKI0U1W2S59FSlAALaxjEbO_bQSA4LBhvvzH0TAQADAgADcwADLAQ",
+            "file_unique_id": "AQAD2sYxGzv20Eh4",
+            "file_size": 1213,
+            "width": 67,
+            "height": 90
+        },
+        {
+            "file_id": "AgACAgIAAxkBAAIBmWOZ57zY-PdwyQLKI0U1W2S59FSlAALaxjEbO_bQSA4LBhvvzH0TAQADAgADbQADLAQ",
+            "file_unique_id": "AQAD2sYxGzv20Ehy",
+            "file_size": 21148,
+            "width": 240,
+            "height": 320
+        },
+        {
+            "file_id": "AgACAgIAAxkBAAIBmWOZ57zY-PdwyQLKI0U1W2S59FSlAALaxjEbO_bQSA4LBhvvzH0TAQADAgADeAADLAQ",
+            "file_unique_id": "AQAD2sYxGzv20Eh9",
+            "file_size": 124457,
+            "width": 600,
+            "height": 800
+        },
+        {
+            "file_id": "AgACAgIAAxkBAAIBmWOZ57zY-PdwyQLKI0U1W2S59FSlAALaxjEbO_bQSA4LBhvvzH0TAQADAgADeQADLAQ",
+            "file_unique_id": "AQAD2sYxGzv20Eh-",
+            "file_size": 190426,
+            "width": 960,
+            "height": 1280
+        }
+    ],
+    "caption": "Оулаьаиал"
+}
+
+
+{
+    "media": "AgACAgIAAxkBAAIBmWOZ57zY-PdwyQLKI0U1W2S59FSlAALaxjEbO_bQSA4LBhvvzH0TAQADAgADcwADLAQ",
+    "type": "photo",
+    "caption": "Оулаьаиал",
+    "parse_mode": "html"
+}, {
+    "media": "AgACAgIAAxkBAAIBmWOZ57zY-PdwyQLKI0U1W2S59FSlAALaxjEbO_bQSA4LBhvvzH0TAQADAgADbQADLAQ",
+    "type": "photo",
+    "parse_mode": "html"
+}, {
+    "media": "AgACAgIAAxkBAAIBmWOZ57zY-PdwyQLKI0U1W2S59FSlAALaxjEbO_bQSA4LBhvvzH0TAQADAgADeAADLAQ",
+    "type": "photo",
+    "parse_mode": "html"
+}, {
+    "media": "AgACAgIAAxkBAAIBmWOZ57zY-PdwyQLKI0U1W2S59FSlAALaxjEbO_bQSA4LBhvvzH0TAQADAgADeQADLAQ",
+    "type": "photo",
+    "parse_mode": "html"
+}

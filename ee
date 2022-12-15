@@ -1,0 +1,51 @@
+{
+    "update_id": 336879537,
+    "message": {
+        "message_id": 220,
+        "from": {
+            "id": 312897103,
+            "is_bot": false,
+            "first_name": "Daniil",
+            "username": "lildaniil",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 312897103,
+            "first_name": "Daniil",
+            "username": "lildaniil",
+            "type": "private"
+        },
+        "date": 1670966684,
+        "media_group_id": "13367647075369858",
+        "photo": [{
+                "file_id": "AgACAgIAAxkBAAPcY5jDbMTbbNgDOwOXaWYpxdTKoncAAg7DMRt828lIowErgm7n5ocBAAMCAANzAAMsBA",
+                "file_unique_id": "AQADDsMxG3zbyUh4",
+                "file_size": 1445,
+                "width": 67,
+                "height": 90
+            },
+            {
+                "file_id": "AgACAgIAAxkBAAPcY5jDbMTbbNgDOwOXaWYpxdTKoncAAg7DMRt828lIowErgm7n5ocBAAMCAANtAAMsBA",
+                "file_unique_id": "AQADDsMxG3zbyUhy",
+                "file_size": 16354,
+                "width": 240,
+                "height": 320
+            },
+            {
+                "file_id": "AgACAgIAAxkBAAPcY5jDbMTbbNgDOwOXaWYpxdTKoncAAg7DMRt828lIowErgm7n5ocBAAMCAAN4AAMsBA",
+                "file_unique_id": "AQADDsMxG3zbyUh9",
+                "file_size": 66067,
+                "width": 600,
+                "height": 800
+            },
+            {
+                "file_id": "AgACAgIAAxkBAAPcY5jDbMTbbNgDOwOXaWYpxdTKoncAAg7DMRt828lIowErgm7n5ocBAAMCAAN5AAMsBA",
+                "file_unique_id": "AQADDsMxG3zbyUh-",
+                "file_size": 86311,
+                "width": 960,
+                "height": 1280
+            }
+        ],
+        "caption": "Куку"
+    }
+}
